@@ -1,4 +1,5 @@
 # I am Badger
 
 ### Discords
-[![Badger Cave](https://github.com/ChonkyBadger/Badger/blob/main/Badger%20Icon.jpg)](https://discord.com/invite/TFCQE8d)
+#### Badger Cave:
+<a href="https://discord.com/invite/TFCQE8d"><img src="https://github.com/ChonkyBadger/Badger/blob/main/Badger%20Icon.jpg" allign="left" width="175" >
