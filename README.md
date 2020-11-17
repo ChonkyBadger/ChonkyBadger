@@ -2,4 +2,4 @@
 
 ### Discords
 #### Badger Cave:
-<a href="https://discord.com/invite/TFCQE8d"><img src="https://github.com/ChonkyBadger/Badger/blob/main/Badger%20Icon.jpg" allign="left" width="175" >
+<a href="https://discord.com/invite/TFCQE8d"><img src="https://github.com/ChonkyBadger/ChonkyBadger/blob/main/Badger%20Icon.jpg" allign="left" width="175" >
