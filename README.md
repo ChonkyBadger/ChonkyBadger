@@ -1,7 +1,5 @@
-# I am Badger
-
-### Discords
-#### Badger Cave:
-<a href="https://discord.com/invite/TFCQE8d"><img src="https://github.com/ChonkyBadger/ChonkyBadger/blob/main/Chomusuke.webp" allign="left" width="175" >
+# Badger
+<a href="https://discord.com/invite/TFCQE8d"><img src="https://github.com/ChonkyBadger/ChonkyBadger/blob/main/Chomusuke.webp?raw=true" allign="left" width="250" >
  
-[Test]("[www.discord.com](https://discord.com/invite/TFCQE8d)")
+[**Discord**](https://discord.com/invite/TFCQE8d)  
+[**Tebex**](https://badgercave.tebex.io/)  
